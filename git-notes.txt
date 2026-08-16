@@ -1,0 +1,15 @@
+Day 4 Git 学习
+
+Git：版本管理工具。
+
+git init：
+初始化 Git 仓库。
+
+git status：
+查看 Git 当前状态。
+
+git add：
+把修改加入暂存区。
+
+git commit：
+创建版本记录。
